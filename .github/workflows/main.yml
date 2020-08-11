@@ -22,22 +22,22 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
     
-    #Setup HUGO environment
+    # Set up HUGO environment
    - name: Hugo setup
     uses: peaceiris/actions-hugo@v2.4.12
     with:     
       extended: true
       
-    #Build Site
+    # Build Site
       -name: Build HUGO Site
        run: hugo
        
-   #Commit site to new branch
-   - name: Deploy to GH Pages
-     uses: crazy-max/ghaction-github-pages@v2.1.2
-     with:
-      target-branch: gh-pages
-      build_dir: public
-    env: 
-      GITHUB_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
+    # Commit site to new branch
+    - name: Deploy to GH Pages
+      uses: crazy-max/ghaction-github-pages@v2.1.2
+      with:
+       target-branch: gh-pages
+       build_dir: public
+     env: 
+       GITHUB_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
       
