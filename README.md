@@ -2,4 +2,4 @@
 
 ---
 
-Built with HUGO
+Built with HUGOs
