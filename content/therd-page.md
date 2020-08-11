@@ -1,7 +1,7 @@
 ---
 title: "Therd Page"
 date: 2020-08-12T00:36:15+03:00
-draft: true
+draft: false
 author: Author Name
 ---
 

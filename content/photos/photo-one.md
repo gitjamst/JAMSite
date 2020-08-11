@@ -1,7 +1,7 @@
 ---
 title: "Photo One"
 date: 2020-07-31T19:30:48+03:00
-draft: true
+draft: false
 author: Photos Author
 ---
 

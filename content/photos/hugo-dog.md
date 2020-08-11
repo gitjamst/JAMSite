@@ -1,7 +1,7 @@
 ---
 title: "Hugo Dog"
 date: 2020-07-31T18:07:58+03:00
-draft: true
+draft: false
 photoauthor: "Ray Viljoen"
 tags: ['photo', 'dog', 'tonque']
 ---
