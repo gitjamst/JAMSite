@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Ray",
+        "sername": "Yang",
+        "skills": [
+            "Javascript",
+            "PHP",
+            "MySQL"
+        ]
+    },
+    {
+        "name": "Angela",
+        "sername": "Slang",
+        "skills": [
+            "HTML",
+            "CSS"
+        ]
+    },
+    {
+        "name": "Voly",
+        "sername": "Butyfy",
+        "skills": [
+            "Photoshop",
+            "Sketch"
+        ]
+    }
+]

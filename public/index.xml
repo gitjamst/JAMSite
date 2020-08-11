@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAMSite</title>
+    <link>http://example.org/</link>
+    <description>Recent content on JAMSite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2020 Stackacademy.tv</copyright>
+    <lastBuildDate>Fri, 31 Jul 2020 19:30:48 +0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Wed, 05 Aug 2020 17:29:24 +0300</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>About JAMSite &amp;lt;section id=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;#34;title&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Pages }} {{ .Render &amp;#34;summary&amp;#34;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt;   Some infor re this site the top level&amp;hellip;
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec dignissim eros. Ut sollicitudin libero sit amet arcu pellentesque malesuada eu et tortor. Praesent varius urna quis magna dignissim congue. Ut ultricies lorem quis ante semper sodales. In maximus ex vitae metus luctus dapibus.</description>
+    </item>
+    
+    <item>
+      <title>Photo One</title>
+      <link>http://example.org/photos/photo-one/</link>
+      <pubDate>Fri, 31 Jul 2020 19:30:48 +0300</pubDate>
+      
+      <guid>http://example.org/photos/photo-one/</guid>
+      <description>Photo heading Photo except
+Photo content</description>
+    </item>
+    
+    <item>
+      <title>Second Page</title>
+      <link>http://example.org/second-page/</link>
+      <pubDate>Fri, 31 Jul 2020 18:43:51 +0300</pubDate>
+      
+      <guid>http://example.org/second-page/</guid>
+      <description>My new page
+Main Heading Post content&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hugo Dog</title>
+      <link>http://example.org/photos/hugo-dog/</link>
+      <pubDate>Fri, 31 Jul 2020 18:07:58 +0300</pubDate>
+      
+      <guid>http://example.org/photos/hugo-dog/</guid>
+      <description>HUGO the Dog! Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi ex nisi, posuere tempor tellus a, interdum mollis urna. Pellentesque nulla tortor, lacinia vel felis a, pulvinar malesuada leo.</description>
+    </item>
+    
+    <item>
+      <title>First Page</title>
+      <link>http://example.org/first-page/</link>
+      <pubDate>Fri, 31 Jul 2020 17:14:33 +0300</pubDate>
+      
+      <guid>http://example.org/first-page/</guid>
+      <description>First JAMSite Page Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non nisl a est elementum efficitur vel sit amet ante. Pellentesque mattis, odio sed volutpat ornare, massa leo consectetur diam, at dapibus mauris ligula non diam. Integer a nisi consectetur, rhoncus velit at, porta sem. Phasellus vel nisi mauris. Sed blandit, massa at blandit efficitur, augue nisi tempor leo, quis congue massa eros vitae eros. Sed consequat finibus pulvinar.</description>
+    </item>
+    
+  </channel>
+</rss>

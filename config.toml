@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "JAMSite"
+theme = "tale"
+copyright = "Copyright 2020 Stackacademy.tv"
+disableKinds = ["section"]
