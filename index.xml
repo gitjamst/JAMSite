@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAMSite</title>
+    <link>https://gitjamst.github.io/JAMSite/</link>
+    <description>Recent content on JAMSite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2020 Stackacademy.tv</copyright>
+    <lastBuildDate>Fri, 31 Jul 2020 19:30:48 +0300</lastBuildDate>
+    
+	<atom:link href="https://gitjamst.github.io/JAMSite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Therd Page</title>
+      <link>https://gitjamst.github.io/JAMSite/therd-page/</link>
+      <pubDate>Wed, 12 Aug 2020 00:36:15 +0300</pubDate>
+      
+      <guid>https://gitjamst.github.io/JAMSite/therd-page/</guid>
+      <description>Therd JAMSite Page Hola Hola
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non nisl a est elementum efficitur vel sit amet ante. Pellentesque mattis, odio sed volutpat ornare, massa leo consectetur diam, at dapibus mauris ligula non diam. Integer a nisi consectetur, rhoncus velit at, porta sem. Phasellus vel nisi mauris. Sed blandit, massa at blandit efficitur, augue nisi tempor leo, quis congue massa eros vitae eros. Sed consequat finibus pulvinar.</description>
+    </item>
+    
+    <item>
+      <title>Photo One</title>
+      <link>https://gitjamst.github.io/JAMSite/photos/photo-one/</link>
+      <pubDate>Fri, 31 Jul 2020 19:30:48 +0300</pubDate>
+      
+      <guid>https://gitjamst.github.io/JAMSite/photos/photo-one/</guid>
+      <description>Photo heading Photo except
+Photo content</description>
+    </item>
+    
+    <item>
+      <title>Hugo Dog</title>
+      <link>https://gitjamst.github.io/JAMSite/photos/hugo-dog/</link>
+      <pubDate>Fri, 31 Jul 2020 18:07:58 +0300</pubDate>
+      
+      <guid>https://gitjamst.github.io/JAMSite/photos/hugo-dog/</guid>
+      <description>HUGO the Dog! Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi ex nisi, posuere tempor tellus a, interdum mollis urna. Pellentesque nulla tortor, lacinia vel felis a, pulvinar malesuada leo.</description>
+    </item>
+    
+  </channel>
+</rss>
